@@ -1,0 +1,15 @@
+{
+    "lr" : 0.0001,
+    "wd" : 0.005,
+    "epochs" : 60,
+    "augmentation" : true,
+    "early_stop" : 14,
+    "dataset_dir" : "/cluster/project/infk/hilliges/lectures/mp20/project3/",
+    "b_size" : 32,
+    "n_workers" : 8,
+    "save_output_dir" : null,
+    "model_name" : "Asymmetric_densenet161",
+    "debug_mode" : false,
+    "messy_param_only_final_loss" : false,
+    "code_dir" : "/cluster/scratch/dsvilarko/Cyclopes"
+}

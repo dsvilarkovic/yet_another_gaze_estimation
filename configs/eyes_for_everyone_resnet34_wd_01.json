@@ -1,0 +1,14 @@
+{
+    "lr" : 0.0001,
+    "wd" : 0.1,
+    "b_size" : 32,
+    "epochs" : 120,
+    "early_stop" : 30,
+    "dataset_dir" : "/cluster/project/infk/hilliges/lectures/mp20/project3/",
+    "n_workers" : 16,
+    "use_gpu" : true,
+    "save_output_dir": null,
+    "model_name": "EyeForEveryOne_Resnet34",
+    "debug_mode": false,
+    "messy_param_only_final_loss": false
+}
